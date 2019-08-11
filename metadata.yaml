@@ -1,5 +1,8 @@
 _repo: Miss-Leslie-s-Complete-Cookery-Directions-for-Cookery-in-Its-Various-Branches_60025
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60025-h/images/cover.jpg
 creator:
   author:
     agent_name: Leslie, Eliza
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2148
     wikipedia: https://en.wikipedia.org/wiki/Eliza_Leslie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60025#Miss-Leslie-s-Complete-Cookery-Directions-for-Cookery-in-Its-Various-Branches
 gutenberg_issued: '2019-07-31'
 gutenberg_type: Text
 identifiers:
