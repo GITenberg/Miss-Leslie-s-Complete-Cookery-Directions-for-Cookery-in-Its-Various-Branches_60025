@@ -1,0 +1,28 @@
+_repo: Miss-Leslie-s-Complete-Cookery-Directions-for-Cookery-in-Its-Various-Branches_60025
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leslie, Eliza
+    alias: Leslie, Miss (Eliza)
+    birthdate: 1787
+    deathdate: 1858
+    gutenberg_agent_id: '2148'
+    url: http://www.gutenberg.org/2009/agents/2148
+    wikipedia: https://en.wikipedia.org/wiki/Eliza_Leslie
+description: ''
+gutenberg_issued: '2019-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+- GITenberg
+title: 'Miss Leslie''s Complete Cookery
+
+  Directions for Cookery, in Its Various Branches'
+url: http://www.gutenberg.org/ebooks/60025
